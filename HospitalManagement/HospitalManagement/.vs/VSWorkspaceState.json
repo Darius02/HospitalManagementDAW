@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Models\\Base",
+    "\\Models\\DTOs",
+    "\\Repositories",
+    "\\Repositories\\DepartmentRepository",
+    "\\Repositories\\DoctorRepository",
+    "\\Repositories\\MedicalRecordRepository",
+    "\\Repositories\\PatientRepository"
+  ],
+  "SelectedNode": "\\Models\\Base\\BaseEntity.cs",
+  "PreviewInSolutionExplorer": false
+}
